@@ -223,7 +223,7 @@ footer a {
 /* BUTTON FIXED */
 .toTop {
   position: fixed;
-  bottom: 10px;
+  bottom: 10vh;
   right: -7px;
 }
 .social {
